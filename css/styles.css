@@ -117,16 +117,16 @@ nav a:hover {
         padding: 2rem;
     }
     
-    .contact-links {
-        display: flex;
-        justify-content: center;
-        gap: 1.5rem;
-    }
+.contact-links {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+}
     
-    .contact-links a {
-        color: white;
-        text-decoration: none;
-    }
+.contact-links a {
+    color: white;
+    text-decoration: none;
+}
     
     .contact-links a:hover {
         text-decoration: underline;
